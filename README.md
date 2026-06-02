@@ -1,5 +1,12 @@
 # HTML Project 1
 
+# HTML Project 1
+
+## Website Preview
+
+![Website Screenshot](screenshot.png)
+
+This is my first HTML project created while learning the fundamentals of web development.
 This is my first HTML project created while learning the fundamentals of web development.
 
 ## Features
